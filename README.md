@@ -1,2 +1,2 @@
-# sadsack_DX11
-kinect2 based game about bodycontrolled sad sacks in v4 dx11
+# sadsack_DX9
+skinned mesh imported from blender to play with kinect2 
